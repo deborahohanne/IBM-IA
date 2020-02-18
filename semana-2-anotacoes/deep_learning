@@ -1,0 +1,29 @@
+-> DEEP LEARNING 
+
+Subconjunto especializado de MACHINE LEARNING.
+
+DEEP LEARNING cria algoritmos para criar uma REDE NEURAL, uma replicação artificial da estrutura e funcionalidade do cérebro humano, permitindo que os sistemas de IA aprendam continuamente no trabalho e melhorem a qualidade e precisão dos resultados.
+
+*Aprendem com dados NÃO estruturados: fotos, vídeos, arquivos de áudio.
+
+
+Os algoritmos de aprendizado profundo não mapeiam diretamente a entrada para a saída, contam com várias camadas de unidades de processamento.
+
+-> Cada camada passa sua saída para a próxima camada, que a processa e passa para a próxima, muitas camadas são chamadas de aprendizado profundo.
+
+
+ALGORITMO DE APRENDIZADO PROFUNDO:
+
+-> configuram o número de camadas e o tipo de funções que conectam as saídas de cada camada para as entradas da próxima.
+
+-> treinam o modelo fornecendo muitos exemplos anotados.
+
+EXAMPLE:
+
+-> Image Captioning
+-> Voice Recognition and Transcription
+-> Facial Recognition
+-> Medical Images
+-> Language Translation
+
+
