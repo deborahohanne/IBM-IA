@@ -1,0 +1,23 @@
+MACHINE LEARNING 
+
+é um subconjunto de IA, usa algoritmos de computador para analisar dados e tomar decisões inteligentes com base no que aprendeu. Não usa algoritmos baseados em regras, ML cria modelos para que classifique e faça previsões a partir dos dados.
+
+
+Com a programação normal usados dados e regras, e utiliza-os para desenvolver um algoritmo que nos dará uma resposta. Usaria uma declaração "if-then-else", quando enviamos contribuições, nós obtemos respostas com base em qual algoritmo que determinamos, esse algoritmo não será alterado. ML, por outro lado, pega dados e respostas e cria o algoritmo. Em vez de obter respostas no final, já temos todas as respostas. O que obtemos é um conjunto de regras que determine qual será o modelo de aprendizado de máquina. O modelo determina as regras. Esse modelo pode ser continuamente treinado e ser usado no futuro para prever valores.
+
+ML se baseia ma definição de regras comportamentais examinando e comparando grandes conjuntos de dados para encontrar padrões comuns.
+
+-> APRENDIZADO SUPERVISIONADO
+Criar rótulos e fornecer dados para treinar.
+ Um algoritmo é treinado em dados rotulados por humanos. Quanto mais amostras você fornecer a um algoritmo de aprendizado supervisionado, mais preciso ele se torna na classificação de novos dados.
+
+
+-> APRENDIZADO NÃO SUPERVISIONADO 
+
+outro tipo de linguagem de máquina, depende de dar ao algoritmo dados não rotulados e permitindo encontrar padrões por si só, fornece a entrada mas não os rótulos, e a máquina infere qualidades que o algoritmo ingere dados não rotulados., encontra padrões. Pode ser útil para agrupar dados, onde os dados são agrupados de acordo com a similaridade para seus vizinhos.
+
+-> APRENDIZADO POR ESFORÇO 
+
+depende de fornecer um algoritmo de aprendizado de máquina com um conjunto de regras e restrições, e deixá-lo aprender como alcançar seus objetivos, define o estado, a meta desejada, ações permitidas e restrições, o algoritmo descobre como alcançar o objetivo.
+
+

@@ -1,0 +1,21 @@
+Termos relacionados e conceitos de IA: Inteligência Artificial, Machine Learning, Deep Learning, Redes Neurais.
+
+-> Inteligência Artificial, é o ramo da ciência da computação que lida com uma simulação de comportamento inteligente.
+
+Exemplos: percepção, planejamento, representação de do conhecimento, aprendizado, raciocínio, manipulação, movimento, resolução de problemas, inteligência social e criatividade.
+
+-> Machine Learning: SUBCONJUNTO DA IA que usa algoritmos de computador para analisar dados e fazer decisões baseadas no que aprendeu sem ser explicitamente programado.
+
+*Os algoritmos de aprendizado de máquina são treinados com grande conjunto de dados e eles aprendem com exemplos. Não segue algoritmos baseados em regra.
+Aprendizado de máquina é o que permite máquinas para resolver problemas e fazer previsões precisas usando os dados fornecidos.
+
+
+*treinar a máquina para aprender com os dados
+
+Deep Learning -> APRENDIZADO PROFUNDO é um subconjunto de Machine Learning que usa redes neurais em camadas para simular a tomada de decisão humana. Algoritmos de aprendizado profundo podem rotular e categorizar informações e identificar padrões.
+
+-> REDES NEURAIS artificiais são chamadas simplesmente de Redes Neurais que se inspiram em redes neurais biológicas. 
+
+*uma rede neural na IA  é uma coleção de pequenas unidades de computação chamadas neurônios que recebem dados e aprendem a tomar decisões ao longo do tempo.
+
+IA X CIÊNCIA DE DADOS: Ciência de Dados é o processo e o método para extrair conhecimento e insights de grandes volumes de dados diferente, envolve matemática, visualização de dados, análise estatística, aprendizado de máquinas. 

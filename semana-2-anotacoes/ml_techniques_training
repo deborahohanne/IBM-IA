@@ -1,0 +1,95 @@
+-> MACHINE LEARNING TECHNIQUES AND TRAINING
+
+-> SUPERVISED LEARNING
+(Aprendizado Supervisionado)
+
+Quando temos rótulos em classes de um conjunto de dados e usamos para construir o modelo de CLASSIFICAÇÃO.
+
+-> UNSUPERVISED LEARNING
+(Aprendizado Não Supervisionado)
+
+Não temos rótulos de classe e precisamos descobrir rótulos de classe a partir de dados NÃO ESTRUTURADOS.
+
+*DADOS NÃO ESTRUTURADOS
+*SEM RÓTULOS
+*APRENDIZADO PROFUNDO
+*CLUSTERING
+
+-> REINFORCEMENT LEARNING
+(Aprendizado Por Esforço)
+
+Subconjunto diferente, usa função para penalizar más ações ou recopensar boas ações.
+
+-> CATEGORIAS DO APRENDIZADO SUPERVISIONADO
+
+- REGRESSÃO
+- CLASSIFICAÇÃO
+- REDES NEURAIS
+
+- REGRESSÃO: É criado para relações, apresenta x e o resultado u, onde y é uma variável contínua, a regressão estima valores contínuos.
+
+- CLASSIFICAÇÃO: Concentra-se em valores discretos que identifica, atribuir rótulos de classes discretos em y, com base em recursos de x.
+
+- REDES NEURAIS: Referem-se a estruturas que imitam a estrutura do cérebro humano.
+
+
+FORMAS DE CLASSIFICAÇÃO: 
+
+- árvore de decisão
+- máquinas de vetores de suporte
+- regressão logística
+- florestas aleatórias 
+
+* Com a classificação podemos extrair recursos dos dados.
+
+* RECURSOS são propriedades distintas de padrões de entrada que ajuda na determinação das categorias de saída ou classes de saída.
+
+
+CADA COLUNA É UM RECURSO E CADA LINHA É UM PONTO DE DADOS
+
+CLASSIFICAÇÃO é o processo de prever a classe de pontos de dados fornecidos.
+
+O CLASSIFICADOR usa alguns dados de treinamento para entender como determinadas variáveis de entrada se relacionam com essa classe.
+
+TREINAMENTO refere-se ao uso de um algoritmo de aprendizagem para determinar e desenvolver parâmetros do seu modelo. 
+
+* O algoritmo modifica valores externos até que tenha aprendido a diferenciar dados.
+
+CONJUNTO DE DADOS, DIVIDIR EM 3 CONJUNTOS.
+
+- CONJUNTO DE TREINAMENTO
+- CONJUNTO DE VALIDAÇÃO
+- CONJUNTO DE TESTE
+
+O subconjunto VALIDAÇÃO é usado para solidar nossos resultados e ajustar os parâmetros do algoritmo.
+
+Os dados de TESTE são os dados que o modelo nunca viu antes e é usado para avaliar o quão bom é o modelo.
+
+Podemos indicar o quão bom o modelo é usando termos como PRECISÃO, PRECISÃO E RECALL.
+
+
+* FEATURES: CARACTERÍSTICAS
+*TRAINING
+*DATA SET 
+->TRAINING
+->VALIDATION
+->TEST SETS
+  ->ACCURACY (PRECISÃO)
+  ->PRECISION
+  ->RECALL
+
+*NEURAL NETWORKS
+->STRUCTURES
+
+*CLASSIFICATION
+
+*FORMS
+ ->DECISION TREE
+ ->SUPPORT VECTOR MACHINES
+ ->LOGISTIC REGRESSION
+ ->RANDOM FORESTS
+
+
+
+
+
