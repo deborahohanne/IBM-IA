@@ -1,0 +1,12 @@
+-> RESUMO 
+
+O Machine Learning, um subconjunto de IA, usa algoritmos de computador para analisar dados e tomar decisões inteligentes com base no que aprendeu. As três principais categorias de algoritmos de aprendizado de máquina incluem aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço.
+
+O Deep Learning, um subconjunto especializado de Machine Learning, cria algoritmos para criar uma rede neural, permitindo que os sistemas de IA aprendam com dados não estruturados e continuem aprendendo no trabalho.
+
+A Neural Networks, uma coleção de unidades de computação modeladas em neurônios biológicos, coleta dados e aprende a tomar decisões ao longo do tempo. Os diferentes tipos de redes neurais incluem Perceptrons, Redes Neurais Convolucionais ou CNNs e Redes Neurais Recorrentes ou RNNs.
+
+Aprendizado supervisionado é quando temos rótulos de classe no conjunto de dados e os usamos para criar o modelo de classificação.
+O aprendizado supervisionado é dividido em três categorias - regressão, classificação e redes neurais.
+
+Os algoritmos de aprendizado de máquina são treinados usando conjuntos de dados divididos em dados de treinamento, dados de validação e dados de teste.

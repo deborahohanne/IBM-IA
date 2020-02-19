@@ -1,0 +1,52 @@
+REDE NEURAL ARTIFICIAL
+
+É uma coleção de unidades menores chamadas neurônios, unidades da computação modelados no caminho que o cérebro humano processa a informação.
+
+Essas unidades ou neurônios recebem dados como as redes neurais biológicas para aprender a tomar decisões ao longo do tempo.
+
+
+*As REDES NEURAIS aprendem através de um processo chamado BACKPROPAGATION.
+
+-> A RETROPROPAGAÇÃO usa um conjunto de dados de treinamento que combine entradas conhecidas com as saídas desejadas.
+- as entradas estão conectadas na rede e as saídas são determinadas.
+
+- uma função de erro determina até que ponto a saída fornecida é na saída desejada.
+*ajustes para reduzir erros.
+
+*Uma coleção de neurônios é chamada de camada, e uma camada recebe a entrada e fornece uma saída. Qualquer rede neural terá uma camada de entrada e uma camada de saída, e terá uma ou mais camadas ocultas.
+
+- camadas ocultas recebem um conjunto de entradas ponderadas e produz uma saída através de uma função de ativação.
+
+*uma rede neural tendo mais de uma camada oculta é referida como uma rede neural profunda.
+
+PERCEPTRONS são os mais simples e mais antigos de redes neurais.
+
+- são redes neurais de camada única que consiste em nós de entrada conectados diretamente a um nó de saída.
+
+- as camadas de entrada encaminham os valores de entrada para a próxima camada por meio da multiplicação por um peso e somando os resultados.
+
+
+
+Camadas ocultas recebem entrada outros nós e encaminham sua saída para outros nós.
+
+Nós ocultos e de saída tem uma propriedade chamada viés, e em seguida, o resultado é encaminhado como uma saída.
+
+*Funções de ativação podem assumir diferentes formas.
+
+REDES NEURAIS CONVOLUCIONAL - CNN's 
+
+São REDES NEURAIS multicamadas que são inspiradas em um córtex visual animal.
+
+- são úteis em aplicativos como PROCESSAMENTO DE IMAGENS, RECONHECIMENTO DE VÍDEO, PROCESSAMENTO DE LINGUAGEM NATURAL.
+
+Uma convolução é uma operação matemática, onde uma função é aplicada a outra função e o resultado é a mistura das duas funções.
+
+*São boas em detectar estruturas simples em uma imagem, e colocando esses recursos simples juntos para construir recursos mais complexos.
+
+Em uma REDE CONVOLUCIONAL , esse processo ocorre em uma série de camadas, cada um dos quais conduz uma convolução na saída da camada anterior.
+
+REDES NEURAIS RECORRENTES - RNN's
+
+São recorrentes pois realizam a mesma tarefa para cada elemento de uma sequência com saídas anteriores, alimentando entradas de estágio subsequente.
+
+RNN's podem fazer uso de informações em longas sequências, cada camada da rede que apresenta a observação em um determinado momento.
