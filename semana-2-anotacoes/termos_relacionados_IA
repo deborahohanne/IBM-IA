@@ -9,7 +9,6 @@ Exemplos: percepção, planejamento, representação de do conhecimento, aprendi
 *Os algoritmos de aprendizado de máquina são treinados com grande conjunto de dados e eles aprendem com exemplos. Não segue algoritmos baseados em regra.
 Aprendizado de máquina é o que permite máquinas para resolver problemas e fazer previsões precisas usando os dados fornecidos.
 
-
 *treinar a máquina para aprender com os dados
 
 Deep Learning -> APRENDIZADO PROFUNDO é um subconjunto de Machine Learning que usa redes neurais em camadas para simular a tomada de decisão humana. Algoritmos de aprendizado profundo podem rotular e categorizar informações e identificar padrões.
