@@ -45,6 +45,6 @@ Em uma REDE CONVOLUCIONAL , esse processo ocorre em uma série de camadas, cada 
 
 REDES NEURAIS RECORRENTES - RNN's
 
-São recorrentes pois realizam a mesma tarefa para cada elemento de uma sequência com saídas anteriores, alimentando entradas de estágio subsequente.
+- são recorrentes pois realizam a mesma tarefa para cada elemento de uma sequência com saídas anteriores, alimentando entradas de estágio subsequente.
 
 RNN's podem fazer uso de informações em longas sequências, cada camada da rede que apresenta a observação em um determinado momento.
