@@ -6,7 +6,6 @@ DEEP LEARNING cria algoritmos para criar uma REDE NEURAL, uma replicação artif
 
 *Aprendem com dados NÃO estruturados: fotos, vídeos, arquivos de áudio.
 
-
 Os algoritmos de aprendizado profundo não mapeiam diretamente a entrada para a saída, contam com várias camadas de unidades de processamento.
 
 -> Cada camada passa sua saída para a próxima camada, que a processa e passa para a próxima, muitas camadas são chamadas de aprendizado profundo.

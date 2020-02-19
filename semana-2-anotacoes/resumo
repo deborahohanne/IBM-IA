@@ -10,3 +10,5 @@ Aprendizado supervisionado é quando temos rótulos de classe no conjunto de dad
 O aprendizado supervisionado é dividido em três categorias - regressão, classificação e redes neurais.
 
 Os algoritmos de aprendizado de máquina são treinados usando conjuntos de dados divididos em dados de treinamento, dados de validação e dados de teste.
+
+
