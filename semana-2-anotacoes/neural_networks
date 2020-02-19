@@ -25,8 +25,6 @@ PERCEPTRONS são os mais simples e mais antigos de redes neurais.
 
 - as camadas de entrada encaminham os valores de entrada para a próxima camada por meio da multiplicação por um peso e somando os resultados.
 
-
-
 Camadas ocultas recebem entrada outros nós e encaminham sua saída para outros nós.
 
 Nós ocultos e de saída tem uma propriedade chamada viés, e em seguida, o resultado é encaminhado como uma saída.
