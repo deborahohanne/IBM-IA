@@ -1,0 +1,33 @@
+1 - Linguagem Natural
+2 - Visão Computacional
+3 - Áudio
+
+NATURAL LANGUAGE PROCESSING, SPEECH, COMPUTER VISION
+
+-> PROCESSAMENTO DE LINGUAGEM NATURAL (NLP) é um subconjunto de IA que permite computadores entender o significado da linguagem humana.
+
+-> Usa aprendizado de máquina e algoritmos de aprendizagem profunda para decernir uma palavra semântica.
+
+-> Desconstrói frases gramaticais, relacional e estrutural para entender o contexto de uso.
+
+-> NLP capaz de entender intenção e emoção.
+
+-> Converter fala em texto -> Comunicação maus natural e fácil de entender.
+
+-> TEXTO EM FALA 
+
+-> Com REDES NEURAIS, em vez de codificar as regras, você fornece amostras de voz e o texto correspondente, a rede neural encontra padrões comuns entre a pronúncia das palavras e depois aprende a mapear novas gravações de voz nos respectivos textos.
+
+-> O outro lado da fala para o texto e texto para fala é também conhecido como SÍNTESE DE FALA.
+
+-> Sintetiza uma voz humana.
+
+VISÃO COMPUTACIONAL
+
+-> Processamento de objetos em imagens e vídeos.
+
+-> Mundo digital para interagir com o mundo físico.
+
+-> Reconhecimento facial
+
+*Self Driving Cars
