@@ -1,0 +1,14 @@
+Como o Watson funciona 
+
+Watson é um sistema de IA, IA é o que dá às máquinas o poder de aprender, adaptar-se a novas entradas, e tomar melhores decisões. 
+ML é o subconjunto da IA que usa algoritmos de computador para analisar dados e toma decisões inteligentes com base no que foi aprendido.
+DL coloca algoritmos para criar uma rede neural artificial, poie aprender continuamente no trabalho, determinar se as decisões estavam corretas, constantemente melhorando a precisão dos resultados, é isso que os permite aprender com dados não estruturados.
+
+Transfer Learning é um modelo de IA em  camadas, a camada inferior é composta de conhecimento geral pronto para uso, como a Wikipédia para IA.
+A camada do meio é pré-embalada com conhecimento adaptado a setores específicos. 
+A camada superior é onde a aprendizagem especifica a ocorrência do cliente, personalizando o Watson para necessidades comerciais exclusivas da empresa.
+
+Transferir Aprendizagem é aprender e aprender. 
+É o que permite o Watson aprender mais com menos, portanto, portanto, não precisa ser treinado do zero, ele pode ser alimentado com conhecimento prévio para acelerar as coisas. 
+
+O Transfer Learning permite que o Watson aprenda mais rapidamente com conjuntos menores de dados, além de proteger os dados e as percepções do cliente.
