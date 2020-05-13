@@ -1,0 +1,20 @@
+Watson para profissionais de IA
+
+A fundação do Watson Assistant aborda 4 princípios-chave:
+
+1 - vem pré treinado com conteúdo relevante para o setor.
+2 - lembra e entende a entrada do usuário.
+Ex.: se o cliente está conversando com Watson e o Watson reconhece uma nova intenção, Watson precisa responder a essa pergunta e lembrar essa conversa assim como você esperaria que um humano se lembrasse.
+3- recomenda, Watson avalia o que acontece nessas conversas e recomenda lugares que podem ser fortalecidos por ter outras intenções. Ex.: quando você fornece alguns exemplos de perguntas, intenções e termos classificadores, entidades, o Watson Assistant pode criar um modelo de aprendizado de máquina para entender solicitações de linguagem natural semelhantes dos seus usuários.
+4 - proteger seus dados, garante que seus dados sejam usados para treinar Watson para você e não através de seus concorrentes. 
+
+
+
+o Watson Assistant é alimentado por modelos de linguagem natural subjacentes que entendem seus usuários e forneça recomendações de treinamento e construa e execute seu assistente. 
+
+Com os chatbots pode-se balancear a interação necessária entre humanos e bots.
+
+API é um conjunto de rotinas, protocolos e ferramentas que ajudam os aplicativos a trabalharem juntos. 
+
+APIS's cognitivas realizam um trabalho semelhante, mas também servem como mensageiro de codificação na nuvem. API cognitivas são baseadas um sistema de saída e entrada. 
+Sua entrada são dados que a API alimenta no Watson e a saída é a entrega do resultado geram com base nesses dados. 
