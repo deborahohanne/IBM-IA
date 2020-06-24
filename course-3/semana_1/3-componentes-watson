@@ -1,0 +1,15 @@
+Três componentes do Chatbot. 
+
+Usuário digita um texto.
+Chatbot pensa muito.
+Resposta é emitida para o usuário.
+
+O Chatbot usa três componentes principais para determinar como interpretar a entrada do usuário e como responder a ela. 
+Intenções, Entidades e Caixa de Diálogo. 
+
+INTENÇÕES, componente mais importante porque eles tentam determinar o que o usuário deseja. 
+Capturam a intenção ou objetivo do usuário. 
+
+ENTIDADES. componente chave da habilidade de diálogo. Intenções capturam a meta do usuário, as entidades nos permitem capturar valores específicos na declaração do usuário. 
+
+DIÁLOGO, nos permite emitir uma resposta ao usuário com base em suas intenções e nas especificidades de sua solicitação que capturamos através de entidades que definimos.

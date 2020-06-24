@@ -1,0 +1,20 @@
+Condições e Ramificações:
+
+As operações de comparação comparam algum valor ou operando.
+
+Operador de igualdade: ==
+Operador de desigualdade: !=
+
+A ramificação permite nos permite executar diferentes instruções para uma entrada diferente.
+
+se: if
+ou se: elif
+senão: else
+
+Operadores lógicos:
+
+or
+and
+not
+
+

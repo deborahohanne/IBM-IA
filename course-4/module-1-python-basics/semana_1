@@ -1,0 +1,83 @@
+Tipos de dados em Python:
+
+- int 
+- float 
+- str
+- bool
+
+* Conversão: converter um tipo de dado para outro tipo de dado.
+ Ex.: 
+
+- 1.1 (float)
+- int(1.1) = 1
+
+
+Expressões e Variáveis: 
+
+- expressões descrevem um tipo de operação que os computadores executam.
+
+Ex.:
+
+Operações aritméticas básicas.
++, =, *, /
+
+- barra simples, resultado da divisão float;
+- barra dupla, resultado da divisão exata, arredondado.
+
+Operador de atribuição:
+
+=, atribui o valor à variável.
+
+Variáveis
+
+- são usadas para armazenar valores.
+
+https://labs.cognitiveclass.ai/tools/my-data/
+
+Operações de Strings:
+
+No Python, srtring é uma sequência de caracteres contida em duas aspas, sequência ordenada.
+
+Pode-se ligar uma string a outra variável.
+
+Cada elemento na sequência pode ser acessado usando um índice representado pela matriz de números.
+
+* É útil pensar em uma string com o uma lista ou tupla.
+
+Fatiar a string : 
+Ex.: 
+
+name = 'Deborah'
+name[0:3] = Deb
+
+Concatenar strings 
+Ex.: 
+
+first_name = 'Deborah'
+last_name = 'Ohanne' 
+
+name = first_name + last_name
+'Deborah Ohanne'
+
+or 
+
+name = first_name + 'Ohanne'
+'Deborah Ohanne' 
+
+- \n
+- \t
+
+- len() : tamanho da string.
+
+Métodos à Strings:
+
+.upper() : transforma caracteres minúsculos em caracteres maiúsculos.
+
+.replace() : substitui uma sequência de caracteres. "Substring de uma nova String"
+
+- find() : encontra uma Substring.
+
+
+
+
+

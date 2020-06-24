@@ -1,0 +1,28 @@
+
+
+-> Watson Personality Insights Service
+
+Permite que as organizações entendam características de personalidade, necessidade e valores, todos de textos escritos por indivíduos.
+
+Com este serviço, você pode obter informações das mídias sociais de uma pessoa, dados corporativos ou quaisquer dados digitais. Você pode personalizar a experiência de um cliente com base em como ele escreve usando essa escrita para adaptar sua experiência às necessidades, desejos ou personalidade particulares
+
+Com o serviço, você pode se envolver individualmente com seus clientes e personalize a experiência deles com sua empresa adaptando suas comunicações com sua personalidade, necessidades e valor específicos.
+
+Com o serviço, você pode analisar o comportamento do cliente em escala. Você pode criar perfis de personalidade para grupos e populações de clientes que permitem segmentar de maneira mais eficaz os produtos, serviços e mensagens para essas populações distintas.
+
+-> Watson Tone Analyze
+
+É um terminal de uso geral onde você pode alimentar comunicação de textos como e-mail, registros de bate-papo, mensagens de texto etc. o serviço que fornecerá uma análise das emoções e tom sendo transmitidos nessas comunicações de uso geral. Ele também possui um endpoint especializado de engajamento do cliente que pode ser usado para analisar interações de atendimento ao cliente. 
+
+
+O Watson Personality Insights prevê características, necessidades e valores da personalidade por meio de texto escrito.
+O Watson Personality Insights ajuda a entender as preferências de consumo de um cliente, para que você possa personalizar suas mensagens sociais para cada cliente com base em sua personalidade, necessidades e valores.
+O Watson Tone Analyzer entende emoções e tons em pequenas quantidades de texto.
+O Watson Tone Analyzer pode ser usado para analisar o tom das análises on-line, aprimorar as interações com o atendimento ao cliente e melhorar a comunicação do cliente com os chatbots.
+
+
+Links para leitura:
+
+https://www.ibm.com/watson/services/personality-insights/
+
+https://www.ibm.com/watson/services/tone-analyzer/

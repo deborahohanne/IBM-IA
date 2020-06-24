@@ -1,0 +1,130 @@
+LISTAS E TUPLAS:
+
+Listas e Tuplas são tipos de dados compostos, um dos principais tipos de estrutura de dados no Python.
+
+Tuplas: São um sequência ordenada, são expressas como elementos separados por vírgula entre parênteses.
+Todos os tipos podem estar contidos em uma tupla, mas o tipo da variável é tupla.
+Ex.:
+- ( , )
+- tuple1 = ("disco", 10, 1.2)
+
+Cada elemento da tupla pode ser acessado pelo índice.
+Ex.:
+
+- tuple1[0] = "disco"
+- tuple1[1] = 10
+- tuple1[2] = 1.2
+
+* Índice negativo acessa os elementos também.
+Ex.: 
+ - tuple1[-1] = 1.2
+
+Concatenação de tuplas:
+Ex.:
+- tuple2 = tuple1 + ("Deborah", 10)
+- tuple2 = ("disco", 10, 1.2, "Deborah", 10)
+
+Slicing:
+Ex.:
+- tuple2[0:3] = ('disco', 10, 1.2)
+
+Saber o tamanho da tupla:
+- len(tuple2) = 5
+
+Tuplas são imutáveis, não pode ser alterada. 
+Para manipulação de tuplas deve ser criada uma nova tupla.
+
+Aninhamento (como uma árvore):
+- NT = (1, 2, ('pop', 'rock'), (3, 4), ('disco', (1, 2)))
+- NT[2][1] = ("rock")
+
+Listas: São representadas por colchetes, são como tuplas em muitos aspectos, porém uma lista é mutável.
+As mesmas convenções de indexação se aplicam ao aninhamento, cada elemento da lista pode ser acessado pelo índice. Pode ter todos os tipos.
+Ex.:
+- [ , ]
+- lista1 = ["Deborah Ohanne", 10.1, 1982] 
+- lista1[0] = "Deborah Ohanne"
+
+Pode-se usar índice negativo para acessar o elemento.
+Concatenar ou combinar uma lista.
+Ex.:
+- lista2 = lista1 + ["Oi", 10]
+- lista2 = ["Deborah Ohanne", 10.1, 1982, "Oi", 10] 
+* Lista não foi alterada.
+
+Por Métodos:
+- extend() : adiciona elementos novos à lista.
+- lista1.extend(['Oi', 10])
+- lista1 = ["Deborah Ohanne", 10.1, 1982, "Oi", 10] 
+- append() : adicionar o tipo à lista.
+- lista1.append(['Oi', 10])
+- lista1 = ["Deborah Ohanne", 10.1, 1982, ["Oi", 10]] 
+* A lista original foi alterada.
+* Sempre que o método é aplicado a lista é mudada.
+
+Mudar elementos:
+- A = ['Deborah', 10, 1.2]
+- A[0] = 'Ohanne'
+- A = ['Ohanne', 10, 1.2]
+
+Excluir elementos:
+- del () : exclui elemento passado com argumento.
+- del(A[0])
+- A = [10, 1.2]
+
+Converter grupo de caracteres separados por espaço em um elemento de uma lista.
+- split() : converte os elementos em grupo de caracteres.
+- "deborah ohanne".split() = ["deborah", "ohanne"]
+Com delimitador: colocar uma "," por exemplo.
+
+
+DICIONÁRIO:
+
+Dicionários:
+são um tipo de coleção em Python, um dicionário tem Chaves e Valores. 
+Chave é análoga ao índice, são como endereços, mas não precisam ser números inteiros. geralmente são personagens. 
+Valores são semelhante ao elemento em uma lista e contêm informações.
+
+Para criar dicionários são usados colchetes:
+- {key : value}
+* keys podem ser imutáveis e únicos.
+* valores podem ser imutáveis, mutáveis e duplicados.
+* cada par de chave é separado por ",".
+Ex.:
+dict = {"nome" : "Deborah", "idade": 24}
+* pode ser adicionado mais chaves e valores.
+* o acesso aos elementos é pelas keys.
+
+Para excluir:
+- del(dict['nome'])
+
+Para acessar as keys:
+- dict.keys()
+Para acessar os values:
+-dict.values()
+
+
+CONJUNTOS:
+
+Conjuntos:
+São um tipo de coleção, assim com as outras estruturas, também pode ser adicionado tipos diferentes de Python, mas não são ordenados, ou seja, não registram a posição do elemento.
+
+Conjuntos tem apenas elementos únicos. 
+Para definição é usado colchetes.
+- { , }
+Ex.: 
+- set = {'Deborah', 'Ohanne'}
+* itens duplicados não estarão presentes.
+
+Converter lista em set:
+- lista = [1, 2, 3, 2]
+- lista_set = set(lista)
+- lista_set = {1, 2, 3}
+
+Adicionar item:
+- lista_set.add(4)
+- lista_set = {1, 2, 3, 4}
+
+Remover item:
+- lista_set.remove(4)
+

@@ -1,0 +1,49 @@
+-> Watson Studio 
+
+
+Com o Watson Studio, podemos simplificar os dados com um processo simplificado que permite extrair valores e informações dos dados para ajudar os serviços a ficar mais inteligente e mais rápidos.
+
+Fornece uma ciência de dados colaborativa, fácil de usar e ambiente de máquina de aprendizado para construir e treinar modelos, preparar e analisar dados e compartilhar informações.
+
+Facilidade para que os cientistas possam compartilhar e trabalhar para resolver problemas dentro do sistema ao invés de começar do zero.
+
+Pode ajudar a começar com modelos para áreas como reconhecimento visual, classificação de idiomas e outras ferramentas dos serviços da IBM Watson.
+
+O Watson Studio oferece muitos benefícios para organizações, ajudando a inserir a IA nos negócios e impulsionar a inovação.
+
+
+-> Watson Machine Learning
+
+
+Machine Learning é um subconjunto de IA que usa algoritmos de computador para analisar dados e tomar decisões inteligentes com base no que aprendeu.
+
+Com o Watson Machine Learning podemos usar nossos próprios dados para criar, treinar e implantar modelos de aprendizado de máquina e aprendizado profundo. 
+
+O Watson Machine Learning Service é um conjunto de APiIs REST que podemos chamar de qualquer linguagem de programação para desenvolver aplicativos que tomem decisões mais inteligentes, resolver problemas e melhorar resultados do usuário.
+
+Watson Machine  Learning é integrado ao Watson Studio, permitindo a integração de IA sem aplicativos e processos. Podemos criar modelos diferentes, usar painéis para comparar resultados e executar experimentos automatizados e modelos de autoaprendizagem com o mecanismo integrado ao Watson Machine Learning.
+
+-> Watson Knowledge Catalog
+
+Watson Knowledge Catalog é um catálogo de ativos corporativos colaborativos que é projetado para descobrir e catalogar enormes volumes de dados complexos e ativos analíticos espalhados de múltiplas fontes e fornece recursos avançados para trabalho colaborativo com dados que ajudam a impulsionar o crescimento.
+
+
+-> Watson OpenScale
+
+Watson OpenScale é uma plataforma aberta que oferece às empresas uma visão clara e precisa de seus sistemas de IA, ajudando-os a monitorar e ajustar o desemprenho em todo o ciclo de vida.
+
+
+O Watson Studio permite criar, treinar, implantar e gerenciar modelos de IA e preparar e analisar dados, em um único ambiente integrado.
+O Watson Machine Learning permite que você use seus próprios dados para criar, treinar e implantar modelos de aprendizado de máquina e aprendizado profundo.
+O Watson Knowledge Catalog impulsiona a colaboração e transforma dados e IA em um ativo corporativo confiável por meio de políticas e aplicação de dados dinâmicos.
+O Watson OpenScale fornece informações sobre a integridade da IA, recomenda as próximas etapas para melhorar os resultados e orquestra tarefas para remediar problemas de desempenho, precisão e justiça.
+
+Links para leitura:
+ 
+https://www.ibm.com/cloud/watson-studio
+
+https://www.ibm.com/cloud/machine-learning
+
+https://www.ibm.com/cloud/watson-knowledge-catalog
+
+https://www.ibm.com/cloud/watson-openscale	

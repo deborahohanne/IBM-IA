@@ -1,0 +1,21 @@
+
+-> Watson Visual Recognition.
+
+O reconhecimento visual entende dados visuais, pode transformar pilhas de imagens em informações organizadas. 
+
+O reconhecimento visual pode aprender qualquer tipo de dados visuais, o treinamento é fácil. 
+
+Basta enviar um conjunto de imagens de treinamento, como imagens de janelas, de carros quebrados e intactos, ou imagens de um modelo de carro. 
+
+O reconhecimento visual aprende as diferenças entre as duas categorias.
+
+O reconhecimento visual do Watson é um serviço de reconhecimento de imagem que permite os usuários etiquetem com rapidez e precisão, classificar e treinar conteúdo visual usando aprendizado de máquina. O serviço inclui ferramentas que utiliza recursos internos, como a capacidade de classificar imagens rapidamente, bem como a capacidade de construir classificadores customizados usando o IBM Watson Studio.
+
+O serviço de reconhecimento visual gera palavras-chave que descrevem o que vê nas imagens, e inclui vários recursos, como como a capacidade de identificar milhares de diferentes objetos comuns que são encontrado em quadros de vídeo ou imagens estáticas. O serviço também tem a capacidade de detectar rostos humanos e identificar uma infinidade de qualidades como gênero, e idade ou características faciais.
+
+O Watson Visual Recognition permite que você identifique, classifique e treine com rapidez e precisão o conteúdo visual usando o aprendizado de máquina.
+
+	
+Links para leitura:
+
+https://www.ibm.com/watson/services/visual-recognition/demo/#demo
