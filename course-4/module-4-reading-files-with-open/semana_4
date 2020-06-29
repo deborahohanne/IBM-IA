@@ -1,0 +1,211 @@
+Função interna open() :
+Usada para criar objetos de arquivo e obter dados desse arquivo.
+
+Ex.: 
+- file1 = open("/caminho", "r")
+O primeiro argumento é o caminho do arquivo.
+O segundo parâmetro é o modo de abertura, podendo ser:
+"r": para leitura
+"w": para escrever
+"a" para anexar
+
+- file1.nome = "/caminho"
+- file1.mode = "r"
+- file1.close() = fecha o arquivo
+
+Declaração "whit", abre e fecha o arquivo automaticamente
+
+Método "read()" armazena os valores do arquivo na variável.
+
+Ex.:
+- file_stuff = file1.read()
+- file_stuff = file1.readline() : armazena a linha
+
+Método "write()" grava dados no arquivo. 
+Ex.:  
+
+- file1 = open("/caminho", "w")]
+
+Dependências e Bibliotecas:
+ 
+PANDAS: 
+Uma biblioteca popular para análise de dados.
+Para importar a biblioteca ou uma dependência como o Pandas é utilizado o seguinte comando.
+
+- import pandas 
+
+Assim, podemos acessar vários métodos pré-criados e atributos dessa biblioteca.
+
+Para abreviar o nome da biblioteca, usamos o comando:
+
+- import pandas as pd
+
+Pandas permite trabalhar com quadro de dados, para leitura de um arquivo CSV por exemplo, utilizamos o comando:
+
+ - pd.read_csv('/caminho')
+
+
+loc, iloc e ix
+
+Existem 3 maneiras de selecionar dados de um quadro de dados no Pandas: loc, iloc e ix.
+
+loc: é baseado principalmente em etiquetas, quando dois argumentos são usados, usamos cabeçalhos de colunas e índices de linha para selecionar os dados que desejamos.
+loc também pode usar um número inteiro como um número de linha e coliuna.
+
+iloc: é baseado em números inteiros. Usamos número de coluna e números de linha para obter linhas ou colunas em posições específicas no quadro de dados.
+
+ix: por padrão, o ix procura um rótulo. Se ix não encontrar um rótulo, ele usará um número inteiro, podemos selecionar dados usando números inteiros de colunas e números de linhas ou cabeçalhos e nomes de linhas usando ix.
+
+loc i iloc podem ser usados para dividir quadros de dados e atribuir valores a um novo quadro de dados.
+
+
+Trabalhar com dados e salvar em outros formatos.
+
+Podemos acessar os dados exclusivos do quadro de dados utilizando um método exclusivo:
+
+- df['Released'].unique()
+
+Criar um novo quadro de dados a partir de um existente e salvar:
+
+- df1 =  df[df['Released'] >= 1980]
+- df1.to_csv('nome_do_arquivo')'
+
+NUMPY 
+
+Matrizes 1D
+
+Numpy é uma biblioteca para computação científica. 
+Vantagens:
+* funções úteis, velocidade e memória
+
+Numpy é a base para o pandas.
+
+Uma lista Python é um contêiner que permite armazenar e acessar dados. Cada elemento está associado a um índice.
+Numpy array ou matriz 1D é semelhante a uma lista. Geralmente é fixo em tamanho e cada elemento é do mesmo tipo. 
+
+Ex.:
+- import numpy as np
+a = np.array([0, 1, 2, 3, 4])
+
+o tipo da matriz que obtemos será "numpy.ndarray"
+
+- type(a) : numpy.ndarray
+
+Como matrizes numpy contém dados do mesmo tipo, podemos usar o atributo dtype para obter o tipo de dados dos elementos da matriz.
+Ex.:
+- a.dtype : dtype('int64') : número inteiro de 64 bits
+
+Atributos básicos da matriz.
+
+- a.size : 5 : o número de elementos da matriz
+- a.ndim : 1 : o número de dimensões ou classificação da matriz
+- a.shape : (5,) :  o tamanho da matriz em cada dimensão
+
+Indexação e Fatias
+
+Para mudar elementos da matriz: 
+- c = np.array([20, 1, 2, 3, 4])
+c : array([20, 1, 2, 3, 4])
+c[0]  = 100
+c : array([100, 1, 2, 3, 4])
+
+Dividir um array: 
+- d=c[1:4]
+d : array([1, 2, 3])
+Atribuir novos valores ao array através de índices: 
+- c[3:5] = 300, 400
+c : array([100, 1, 2, 300, 400])
+
+Operações básicas
+ 
+Numpy facilita a execução de muitas operações que são realizado em ciência de dados. As mesmas operações são geralmente computacionalmente mais rápido e requer menos memória numpy em comparação ao Python comum.
+
+Operações em Matrizes Unidimensionais
+
+Muitas das operações são no contexto de vetores euclidianos.
+
+Ex.:
+
+- u = np.array([1, 0])
+v = np.array([0, 1])
+z = u + v  
+z : array([1, 1])
+
+Escalar 
+
+Ex.: 
+- y = np.array([1, 2])
+z = 2*y
+z : array([2, 4])
+
+Produto
+
+Ex.: 
+- u = np.array([1, 2])
+v = np.array([3, 2])
+z = u * v 
+z : array([3, 4])
+
+Funções universais
+
+Ex: 
+a = np.array([1, -1, 1, -1])
+
+Média dos elementos usando "mean()":
+- mean_a = a.mean()
+mean_a : 0
+
+Valor máximo do array "max()":
+
+b = np.array([1, -2, 3, 4, 5])
+max_b = b.max()
+max_b : 5
+
+Outros
+np.pi
+np.sin()
+Para aplicar outras funções ao array.
+
+Para plotagem de funções matemáticas:
+
+np.linspace() : retorna uniformemente números espaçados no intervalo especificado. 
+Como parâmetro é passado o ponto de partida da sequência e o ponto final da sequência., parâmetro "num"
+indica o número de amostras a serem geradas.
+
+Matrizes 2D
+
+a = [[11, 12, 13], [21, 22, 23], [31, 32, 33]]
+
+Transformar uma lista em um array numpy:
+
+- A = np.array(a) 
+
+Visualizar como uma matriz retangular, cada lista aninhada corresponde a uma linha diferente da matriz.
+
+Podemos usar o atributo "ndim" para obter o número de eixos ou dimensões referidos como classificação.
+
+Acessa diferentes elementos do array:
+
+- A[0][0] : 11
+
+"np.dot" produto escalar do array
+
+".shape" retorna uma tupla correspondente ao tamanho ou número de cada dimensão.
+
+
+Application Program Interfaces, API
+
+Uma API permite que dois softwares conversem entre si. 
+Podemos nos comunicar com uma API por meio de entradas e saídas.
+Pandas por exemplo é um conjunto de componentes de software.
+
+APIs REST são um tipo popular de API. Permite a comunicação através da internet. 
+RE significa Representacional
+S significa Estado
+T significa Tranferência
+
+Os métodos HTTP são uma maneira de transmissão de dados pela internet. 
+APIs REST enviam uma solicitação, essa solicitação se comunica por meio de uma mensagem HTTP.
+A mensagem geralmente contém arquivo adjacente. 
+Esta mensagem retorna ao cliente.
+

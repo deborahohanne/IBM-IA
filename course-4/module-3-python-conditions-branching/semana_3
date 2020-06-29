@@ -1,9 +1,14 @@
-Condições e Ramificações:
+CONDIÇÕES E RAMIFICAÇÕES:
+
 
 As operações de comparação comparam algum valor ou operando.
 
 Operador de igualdade: ==
 Operador de desigualdade: !=
+Maior que: >
+Menor que: <
+Maior ou igual a: >=
+Menor ou igual a: <=
 
 A ramificação permite nos permite executar diferentes instruções para uma entrada diferente.
 
@@ -17,4 +22,43 @@ or
 and
 not
 
+LOOPS:
+
+Função range() : gera uma sequência ordenada com uma lista.
+
+Se a entrada deve ser um inteiro positivo, a sequência possui o mesmo número de elementos que a entrada, mas começa em zero.
+
+Ex.:
+
+- range(3) = [0, 1, 2]
+- range(10, 15) = [10, 11, 12, 13, 14]
+ 
+Os Loops executam uma tarefa repetidamente.
+
+lista = ['A', 'B', 'C']
+- for i in range(0,3)
+
+Os Loops while são semelhantes aos Loops for, mas ao invés de executar uma instrução um número definido de vezes, um Loop while só será executado se uma condição for atendida.
+
+Funções:
+
+Funções internas do Python, e também criação de novas funções.
+
+As funções recebem uma entrada, e produz uma saída ou mudança. 
+A função é apenas um pedaço de código que pode ser reutilizado.
+É necessário saber como a função funciona, no caso de usar funções de outras pessoas, ou as funções externas.
+
+Ex.:
+
+- len() : recebe uma entrada da sequência de tipos, como uma sequência ou lista, ou  uma coleção de tipos, como um dicionário, e retorna o comprimento dessa lista.
+
+- sum() : recebe uma lista ou tupla, retorna a soma dos elementos dentro de uma tupla ou lista.
+
+Podemos utilizar métodos que são semelhantes às funções. 
+
+OBJETOS E CLASSES:
+
+Todo objeto tem o seguinte: um tipo, representação interna, um conjunto de funções chamados métodos para interagir com os dados. 
+Um objeto é uma instância de um tipo específico.
+Os atributos de dados da classe definem a classe.
 
