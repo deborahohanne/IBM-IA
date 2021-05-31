@@ -1,0 +1,21 @@
+Watson Discovery - Mecanismo avançado de insight.
+
+O principal objetivo do Watson Discovery é alavancar os recursos de IA do Watson, para extrair informações dos dados.
+
+O maior desafio é extrair informações e descobrir informações associaáveis .
+O Watson Discovery permite carregar seus próprios dados e existe um conjunto de dados do próprio Watson Discovery News contendo artigos de notícias dos últimos 60 dias. Esse conjunto é automaticamente
+ mantido atualizado.
+
+O DIscovery tem a capacidade de aplicar algoritmos de IA para enriquecer os dados brutos importados. Isso inclui extração de palavras-chaves dos documentos, conceitos de marcação, extração de entidades específicas, como país, empresas e até pessoas, além de análise de sentimentos. Se uma notícia foi positiva, neutra ou negativa.
+
+É possível criar a sua própria consulta por meio de linguagem natural, um construtor visual ou usando uma sintaxe específica empregada pela Discovery.
+
+Exemplo: Artigo sobre a Tesla
+
+Watson lerá o artigo.
+Determinará se é positivo, neutro negativo ou neutro.
+Detectará pessoas relevantes (por exemplo, Elon Musk).
+Detectará empresas mencionadas (por exemplo, Tesla, Mercedes-Benz).
+
+Entidades são valores especiais que foram detectados pelo Watson. Empresas, pessoas, cidades, etc.
+
